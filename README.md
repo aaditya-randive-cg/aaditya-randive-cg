@@ -81,7 +81,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaditya-randive-cg&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=aaditya-randive-cg&theme=green-nur&hide_border=false&border=00C853&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&currStreakNum=00C853&sideNums=00C853" alt="GitHub contribution streak" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -93,14 +93,15 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya-randive-cg&theme=tokyo-night" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya-randive-cg&bg_color=0d1117&color=00C853&line=00C853&point=00C853&area=true&hide_border=false&custom_title=GitHub%20Activity" alt="GitHub contribution activity graph" />
 </p>
 
 ---
-## 🔥 GitHub Streak
+
+## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaditya-randive-cg&theme=green-nur&hide_border=false&border=00C853&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&currStreakNum=00C853&sideNums=00C853" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/aaditya-randive-cg/aaditya-randive-cg/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contribution graph" />
 </p>
 
 ---
