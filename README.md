@@ -97,11 +97,10 @@
 </p>
 
 ---
-
-## 🐍 Snake Eating My Contributions
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aaditya-randive-cg/aaditya-randive-cg/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=aaditya-randive-cg&theme=green-nur&hide_border=false&border=00C853&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&currStreakNum=00C853&sideNums=00C853" alt="GitHub contribution streak" />
 </p>
 
 ---
